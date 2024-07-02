@@ -1,6 +1,6 @@
 # Hello World! 🎺🐸
 
-I'm TrpFrog (つまみ, tsumami).
+I'm tsmami (つまみ, trpfrog).
 
 I am conducting research on **natural language processing** using deep learning at the University of Electro-Communications
 (Undergraduate School). As a hobby, I also engage in **web development** (React/Next.js).
