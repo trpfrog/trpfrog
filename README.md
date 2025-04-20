@@ -2,8 +2,14 @@
 
 I'm tsmami (つまみ, trpfrog).
 
-I am conducting research on **natural language processing** using deep learning at the University of Electro-Communications
-(Undergraduate School). As a hobby, I also engage in **web development** (React/Next.js).
+I ***was*** conducting research on natural language processing using deep learning at the University of Electro-Communications
+(Undergraduate School).
+
+I completed my Master of Engineering (M.Eng.) degree and am now working as **a web engineer**.
+
+As a hobby, I also engage in **web development** (React/Next.js).
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrpFrog&layout=compact)
 
